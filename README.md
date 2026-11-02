@@ -61,7 +61,7 @@ I support Real Madrid 👿 and Brazil 😎.
     <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://selashsunny.github.io/portfolio2/">
+  <a href="https://selashsunny-portfolio.vercel.app/">
     <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
