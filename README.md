@@ -16,7 +16,7 @@
 
 <br>
 
-Hi, I'm [Selash Sunny](https://beacons.ai/selashsunny), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
+Hi, I'm [Selash Sunny](https://beacons.ai/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
 I support Real Madrid 👿 and Brazil 😎.
 
 <br>
@@ -27,8 +27,8 @@ I support Real Madrid 👿 and Brazil 😎.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J6N283d3JrYnQwcmduZDE1Y21iOXFnbDQzODU3bmlhZmhpbGlxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
 
- - 📫 How to reach me: [selashsunny@gmail.com](mailto:selashsunny@gmail.com);
- - 🔗 My website: [https://beacons.ai/selashsunny](https://beacons.ai/selashsunny)
+ - 📫 How to reach me: [Mail ID](mailto:selashsunny@gmail.com);
+ - 🔗 My website: [Link](https://selashsunny.github.io/Blackhat-Interface/)
  
  <br>
 
@@ -61,7 +61,7 @@ I support Real Madrid 👿 and Brazil 😎.
     <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://selashsunny-portfolio2.vercel.app/">
+  <a href="https://selashsunny.github.io/Anonelite-Interface/">
     <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/html.svg" alt="html" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
@@ -69,7 +69,7 @@ I support Real Madrid 👿 and Brazil 😎.
     <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://beacons.ai/selashsunny">
+  <a href="https://selashsunny.github.io/Blackhat-Interface/">
     <img src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/svg/web.svg" alt="web" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
