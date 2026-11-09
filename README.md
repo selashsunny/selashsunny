@@ -7,11 +7,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-#<a href="https://www.linkedin.com/in/selashsunny/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-#<a href="https://www.facebook.com/selashsunny/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/selash_sunny/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-#<a href="https://twitter.com/selashsunny" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-#<a href="https://www.youtube.com/channel/UCjtnYnV6-BmNtCIjOcnCQMQ" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/youtube.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/facebook.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/selashsunny/selashsunny/master/Resources/png/youtube.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
